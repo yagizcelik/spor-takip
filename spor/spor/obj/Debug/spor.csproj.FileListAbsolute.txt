@@ -1,0 +1,7 @@
+C:\Users\msi-nb\Desktop\projeler\spor\spor\bin\Debug\spor.exe.config
+C:\Users\msi-nb\Desktop\projeler\spor\spor\bin\Debug\spor.exe
+C:\Users\msi-nb\Desktop\projeler\spor\spor\bin\Debug\spor.pdb
+C:\Users\msi-nb\Desktop\projeler\spor\spor\obj\Debug\spor.csproj.AssemblyReference.cache
+C:\Users\msi-nb\Desktop\projeler\spor\spor\obj\Debug\spor.csproj.CoreCompileInputs.cache
+C:\Users\msi-nb\Desktop\projeler\spor\spor\obj\Debug\spor.exe
+C:\Users\msi-nb\Desktop\projeler\spor\spor\obj\Debug\spor.pdb

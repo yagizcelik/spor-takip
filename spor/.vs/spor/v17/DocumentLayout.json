@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\projeler\\spor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16168B54-89E8-4428-A9BE-C4D4C8ABFB5D}|spor\\spor.csproj|c:\\users\\msi-nb\\desktop\\projeler\\spor\\spor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16168B54-89E8-4428-A9BE-C4D4C8ABFB5D}|spor\\spor.csproj|solutionrelative:spor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\projeler\\spor\\spor\\Program.cs",
+              "RelativeDocumentMoniker": "spor\\Program.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\projeler\\spor\\spor\\Program.cs*",
+              "RelativeToolTip": "spor\\Program.cs*",
+              "ViewState": "AgIAAN4AAAAAAAAAAAAUwAEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:05:35.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
